@@ -4,7 +4,7 @@ public:
         priority_queue<long long ,vector<long long>,greater<long long>> q;
         //Heap Created
         for(int n : nums){
-            q.push(n);
+            q.emplace(n);
         }
         int count=0;
         //Operations

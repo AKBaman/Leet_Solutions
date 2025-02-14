@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1364-tuple-with-same-product](https://github.com/AKBaman/Leet_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2232-adding-spaces-to-a-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1364-tuple-with-same-product](https://github.com/AKBaman/Leet_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AKBaman/Leet_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AKBaman/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AKBaman/Leet_Solutions/tree/master/0070-climbing-stairs) |
+| [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/AKBaman/Leet_Solutions/tree/master/2448-count-number-of-bad-pairs) |
 ## Dynamic Programming
@@ -108,9 +111,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->

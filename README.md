@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/AKBaman/Leet_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0189-rotate-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/AKBaman/Leet_Solutions/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
 ## Quickselect
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -165,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AKBaman/Leet_Solutions/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AKBaman/Leet_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AKBaman/Leet_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AKBaman/Leet_Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/AKBaman/Leet_Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/AKBaman/Leet_Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/AKBaman/Leet_Solutions/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |

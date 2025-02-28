@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AKBaman/Leet_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/AKBaman/Leet_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0189-rotate-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AKBaman/Leet_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/AKBaman/Leet_Solutions/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |

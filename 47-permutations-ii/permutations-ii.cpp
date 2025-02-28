@@ -6,20 +6,20 @@ public:
             ans.push_back(arr);
             return;
         }
-        vector<bool> visited(21,0);
+        unordered_map<int,bool>map;
         for(int i=index;i<arr.size();i++){
-            // if(i>index && arr[i]==arr[index]) continue; 
-            if(visited[arr[i]+10]==0){
+            if(i>index && arr[i]==arr[index]) continue; 
+            if(map[arr[i]]==0){
                 swap(arr[i],arr[index]);
                 Permut(arr,ans,index+1);
                 swap(arr[i],arr[index]);
-                visited[arr[i]+10]=1;
+                map[arr[i]]=1;
             }
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         vector<vector<int>> ans;
-        // sort(nums.begin(),nums.end());
+        sort(nums.begin(),nums.end());
         Permut(nums,ans,0);
         return ans;
     }

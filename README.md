@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0147-insertion-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -232,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

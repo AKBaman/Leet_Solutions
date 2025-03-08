@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AKBaman/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AKBaman/Leet_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AKBaman/Leet_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/3447-clear-digits) |
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/AKBaman/Leet_Solutions/tree/master/2610-closest-prime-numbers-in-range) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AKBaman/Leet_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->

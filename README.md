@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AKBaman/Leet_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/AKBaman/Leet_Solutions/tree/master/3639-zero-array-transformation-i) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/AKBaman/Leet_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AKBaman/Leet_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3639-zero-array-transformation-i](https://github.com/AKBaman/Leet_Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |

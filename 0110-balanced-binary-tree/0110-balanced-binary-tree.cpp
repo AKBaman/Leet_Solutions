@@ -10,33 +10,26 @@
  * };
  */
 class Solution {
-private:
-    int height(TreeNode* root){
-        if(!root){
-            return 0;
-        }
-
-        int left = height(root->left);
-        int right = height(root->right);
-
-        return max(left,right) + 1;
-    }
 public:
-    bool isBalanced(TreeNode* root) {
+    pair<bool,int> FastCheck(TreeNode* root){
         if(!root){
-            return true;
+            pair<bool,int> p = {true, 0};
+            return p;
         }
+        pair<bool,int> left = FastCheck(root->left);
+        pair<bool,int> right= FastCheck(root->right);
 
-        bool left  = isBalanced(root->left);
-        bool right  = isBalanced(root->right);
+        bool lefts = left.first;
+        bool rights = right.first;
+        bool diff = abs(left.second - right.second) <=1;
 
-        bool checkBalanced = abs(height(root->left) - height(root->right)) <= 1;
+        pair<bool,int> ans ;
+        ans.first = (lefts && rights && diff);
+        ans.second =  max(left.second,right.second) + 1;
+        return ans;
 
-        if(left && right && checkBalanced){
-            return true;
-        } 
-        else{
-            return false;
-        }
+    }
+    bool isBalanced(TreeNode* root) {
+        return FastCheck(root).first;
     }
 };

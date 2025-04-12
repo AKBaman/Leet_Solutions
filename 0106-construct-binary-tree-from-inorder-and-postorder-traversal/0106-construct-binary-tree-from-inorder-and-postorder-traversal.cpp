@@ -20,20 +20,25 @@ public:
         return -1;
     }
     
-    TreeNode* Tree(vector<int>inorder,vector<int>postorder,int inStart,int inEnd,int index){
+    TreeNode* Tree(vector<int>inorder,vector<int>postorder,int inStart,int inEnd,int index,unordered_map<int,int>&map){
         if(inStart > inEnd){
             return NULL;
         }
 
         TreeNode* root =  new TreeNode(postorder[index]);
-        int pos = Find(inorder,inStart,inEnd,postorder[index]);
+        int pos = map[postorder[index]];
 
-        root->right = Tree(inorder,postorder,pos+1,inEnd,index-1);
-        root->left = Tree(inorder,postorder,inStart,pos-1,index - (inEnd-pos)-1);
+        root->right = Tree(inorder,postorder,pos+1,inEnd,index-1,map);
+        root->left = Tree(inorder,postorder,inStart,pos-1,index - (inEnd-pos)-1,map);
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
         int start   = 0,end  = inorder.size()-1,index = end;
-        return Tree(inorder,postorder,start,end,index);
+        unordered_map<int,int> map;
+        for(int i=0;i<inorder.size();i++){
+            map[inorder[i]] = i;
+        }
+
+        return Tree(inorder,postorder,start,end,index,map);
     }
 };

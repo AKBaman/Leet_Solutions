@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/AKBaman/Leet_Solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AKBaman/Leet_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AKBaman/Leet_Solutions/tree/master/1364-tuple-with-same-product) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AKBaman/Leet_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/AKBaman/Leet_Solutions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3643-zero-array-transformation-ii) |

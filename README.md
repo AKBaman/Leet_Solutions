@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AKBaman/Leet_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0047-permutations-ii) |
+| [0073-set-matrix-zeroes](https://github.com/AKBaman/Leet_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AKBaman/Leet_Solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AKBaman/Leet_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AKBaman/Leet_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [3227-find-missing-and-repeated-values](https://github.com/AKBaman/Leet_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Number Theory
 |  |

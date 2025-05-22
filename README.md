@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AKBaman/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/AKBaman/Leet_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AKBaman/Leet_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0226-invert-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/AKBaman/Leet_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Recursion
@@ -382,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/AKBaman/Leet_Solutions/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/AKBaman/Leet_Solutions/tree/master/2998-count-symmetric-integers) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/AKBaman/Leet_Solutions/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->

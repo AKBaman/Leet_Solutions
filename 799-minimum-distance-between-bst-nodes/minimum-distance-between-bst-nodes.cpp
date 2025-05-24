@@ -11,43 +11,21 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>& ans){
-        TreeNode* curr = root;
-        while(curr){
-            if(!curr->left){
-                ans.push_back(curr->val);
-                curr = curr->right;
-            }
-            else{
-                TreeNode* prev = curr->left;
-
-                while(prev->right != NULL && prev->right!=curr){
-                    prev=prev->right;
-                }
-
-                if(prev->right == NULL){
-                    prev->right = curr;
-                    curr = curr->left;
-                }
-                else{
-                    prev->right=NULL;
-                    ans.push_back(curr->val);
-                    curr = curr->right;
-                }
-            }
+    void inorder(TreeNode* root,int& ans,int& prev){
+        if(!root) return;
+        inorder(root->left,ans,prev);
+        if(prev!=INT_MIN){
+            ans= min(ans,root->val-prev);
         }
+        prev = root->val;
+        inorder(root->right,ans,prev);
     }
+
     int minDiffInBST(TreeNode* root) {
-        vector<int> ans;
-        inorder(root,ans);
-        int res = INT_MAX;
+        int prev =INT_MIN;
+        int ans = INT_MAX;
 
-        for(int i=0;i<ans.size()-1;i++){
-            if(ans[i+1]-ans[i] < res){
-                res = ans[i+1]-ans[i];
-            }
-        }
-
-        return res;
+        inorder(root,ans,prev);
+        return ans;
     }
 };

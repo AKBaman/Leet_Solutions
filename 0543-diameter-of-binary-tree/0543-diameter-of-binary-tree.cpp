@@ -11,33 +11,18 @@
  */
 class Solution {
 public:
+    int check(TreeNode* root,int &ans){
+        if(!root) return 0;
 
-    pair<int,int> diameterFast(TreeNode* root){
-        if(!root){
-            pair<int,int> p = make_pair(0,0);
-            return p;
-        }
-        //first --> diameter second--> height
-        pair<int,int> left = diameterFast(root->left);
-        pair<int,int> right = diameterFast(root->right);
+        int lh = check(root->left,ans);
+        int rh = check(root->right,ans);
 
-        //diameter of left subtree
-        int op1 = left.first;
-
-        //diameter of right subtree
-        int op2 = right.first;
-
-        //height of the right left and a root node
-        int op3 = left.second + right.second;
-
-        pair<int,int> ans;
-        ans.first = max(op1,max(op2,op3));
-        //height wala formula;
-        ans.second = max(left.second,right.second)+1;
-        
-        return ans;
+        ans = max(ans,lh+rh);
+        return max(lh,rh)+1;
     }
     int diameterOfBinaryTree(TreeNode* root) {
-        return diameterFast(root).first;
-    }   
+        int ans=-1;
+        check(root,ans);
+        return ans;
+    }
 };

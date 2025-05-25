@@ -11,25 +11,23 @@
  */
 class Solution {
 public:
-    pair<bool,int> FastCheck(TreeNode* root){
-        if(!root){
-            pair<bool,int> p = {true, 0};
-            return p;
-        }
-        pair<bool,int> left = FastCheck(root->left);
-        pair<bool,int> right= FastCheck(root->right);
+    int check(TreeNode* root){
+        if(!root) return 0;
 
-        bool lefts = left.first;
-        bool rights = right.first;
-        bool diff = abs(left.second - right.second) <=1;
+        int lh = check(root->left);
+        int rh = check(root->right);
 
-        pair<bool,int> ans ;
-        ans.first = (lefts && rights && diff);
-        ans.second =  max(left.second,right.second) + 1;
-        return ans;
+        if(lh==-1|| rh==-1 ||abs(lh-rh) > 1) return -1;
 
+        return max(lh,rh) + 1;
     }
     bool isBalanced(TreeNode* root) {
-        return FastCheck(root).first;
+        int ans = check(root);
+
+        if(ans==-1){
+            return false;
+        }
+
+        return true;
     }
 };

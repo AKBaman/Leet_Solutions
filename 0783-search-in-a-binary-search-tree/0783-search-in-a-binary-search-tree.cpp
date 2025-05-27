@@ -17,8 +17,13 @@ public:
             res = root;
             return;
         }
-        find(root->left,val,res);
-        find(root->right,val,res);
+        if(val < root->val){
+            find(root->left,val,res);
+        }
+        if(val > root->val){
+            find(root->right,val,res);
+        }
+
         return;
     }
     TreeNode* searchBST(TreeNode* root, int val) {

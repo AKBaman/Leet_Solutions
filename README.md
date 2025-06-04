@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/AKBaman/Leet_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/AKBaman/Leet_Solutions/tree/master/0022-generate-parentheses) |
+| [0242-valid-anagram](https://github.com/AKBaman/Leet_Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/AKBaman/Leet_Solutions/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AKBaman/Leet_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0242-valid-anagram](https://github.com/AKBaman/Leet_Solutions/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/AKBaman/Leet_Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/AKBaman/Leet_Solutions/tree/master/0274-h-index) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |

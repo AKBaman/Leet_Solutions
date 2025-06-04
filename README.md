@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0955-complete-binary-tree-inserter](https://github.com/AKBaman/Leet_Solutions/tree/master/0955-complete-binary-tree-inserter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0955-complete-binary-tree-inserter](https://github.com/AKBaman/Leet_Solutions/tree/master/0955-complete-binary-tree-inserter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/AKBaman/Leet_Solutions/tree/master/2384-root-equals-sum-of-children) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0955-complete-binary-tree-inserter](https://github.com/AKBaman/Leet_Solutions/tree/master/0955-complete-binary-tree-inserter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0955-complete-binary-tree-inserter](https://github.com/AKBaman/Leet_Solutions/tree/master/0955-complete-binary-tree-inserter) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/AKBaman/Leet_Solutions/tree/master/2384-root-equals-sum-of-children) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |

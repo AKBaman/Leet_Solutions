@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AKBaman/Leet_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AKBaman/Leet_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AKBaman/Leet_Solutions/tree/master/1364-tuple-with-same-product) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AKBaman/Leet_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/3447-clear-digits) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/AKBaman/Leet_Solutions/tree/master/0955-complete-binary-tree-inserter) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/AKBaman/Leet_Solutions/tree/master/2384-root-equals-sum-of-children) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/AKBaman/Leet_Solutions/tree/master/0955-complete-binary-tree-inserter) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/AKBaman/Leet_Solutions/tree/master/2384-root-equals-sum-of-children) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Database
 |  |
 | ------- |
@@ -481,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AKBaman/Leet_Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/AKBaman/Leet_Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AKBaman/Leet_Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->

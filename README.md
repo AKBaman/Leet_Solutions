@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3639-zero-array-transformation-i](https://github.com/AKBaman/Leet_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AKBaman/Leet_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## String
 |  |
 | ------- |

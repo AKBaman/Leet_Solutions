@@ -17,7 +17,7 @@ public:
 
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         pq.push({0,k-1});
-        
+     
         while(!pq.empty()){
             auto [dis,node] = pq.top();
             pq.pop();

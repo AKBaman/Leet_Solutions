@@ -15,32 +15,36 @@ public:
         vector<int> dist(n,1e9);
         dist[k-1] = 0;
 
-        priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
-        pq.push({0,k-1});
-        
-        while(!pq.empty()){
-            auto [dis,node] = pq.top();
-            pq.pop();
+       //using set
+       //set{distance ,node}
+       set<pair<int,int>> set;
+       set.insert({0,k-1});
+
+       while(!set.empty()){
+            auto it  = *(set.begin());
+            int dis  = it.first;
+            int node = it.second;
+            set.erase(set.begin());
 
             for(auto it : adj[node]){
+
                 int edgeWeight = it.first;
                 int adjNode = it.second;
 
-                if(dis + edgeWeight < dist[adjNode]){
-                    dist[adjNode] =  dis + edgeWeight;
-                    pq.push({dist[adjNode],adjNode});
+                if(edgeWeight + dis < dist[adjNode]){
+                    if(dist[adjNode]!=1e9){
+                        set.erase({dist[adjNode],adjNode});
+                    }
+                    dist[adjNode]= edgeWeight + dis;
+                    set.insert({dist[adjNode],adjNode});
                 }
             }
-        }
-        int maxDelay = 0;
-        for(auto it : dist){
-           if(it==1e9){
-            return -1;
-           }
-           else{
-            maxDelay = max(maxDelay,it);
-           }
-        }
-        return maxDelay;
+       }
+       int delay = -1;
+       for(int it : dist){
+            if(it == 1e9) return -1;
+            delay = max(delay,it);
+       }
+        return delay;
     }
 };

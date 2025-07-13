@@ -1,45 +1,26 @@
 class Solution {
 public:
-    bool isSign(string ch){
-        return ch == "+" || ch == "-" || ch == "*" || ch == "/";
-    }
+    int applyOP(int a , int b, char token){
+        if(token== '+') return a+b;
+        else if(token=='-')return a-b;
+        else if(token =='*')return a*b ;
+        else return a/b;
+        }
     int evalRPN(vector<string>& tokens) {
-        stack<int> st;
-        int n = tokens.size();
+        stack<int>st;
+        for(string token : tokens){
+            if(token =="+" || token=="-" || token=="*" || token == "/"){
+                int b=st.top();
+                st.pop();
+                int a= st.top();
+                st.pop();
 
-        for(int i=0;i<n;i++){
-            if(!isSign(tokens[i])){
-                st.push(stoi(tokens[i]));
-                cout<<st.top()<<endl;
+                st.push(applyOP(a,b,token[0]));
             }
             else{
-                int b = st.top();
-                st.pop();
-                int a = st.top();
-                st.pop();
-
-                int result = 0;
-                
-                if(tokens[i] == "+"){
-                    result = a + b;
-                    st.push(result);
-                }
-                else if(tokens[i] == "-"){
-                    result = a - b;
-                    st.push(result);
-                }
-                else if(tokens[i] == "*"){
-                    result = a*b;
-                    st.push(result);
-                }
-                else{
-                    result = a/b;
-                    st.push(result);
-                }
-                cout<<st.top()<<" ";
+                st.push(stoi(token));
             }
         }
-
         return st.top();
     }
 };

@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/AKBaman/Leet_Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/AKBaman/Leet_Solutions/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0943-sum-of-subarray-minimums](https://github.com/AKBaman/Leet_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AKBaman/Leet_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Tree
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/AKBaman/Leet_Solutions/tree/master/0224-basic-calculator) |
+| [0234-palindrome-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AKBaman/Leet_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |

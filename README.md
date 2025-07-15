@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/AKBaman/Leet_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3194-find-words-containing-character](https://github.com/AKBaman/Leet_Solutions/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3396-valid-word](https://github.com/AKBaman/Leet_Solutions/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/3447-clear-digits) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AKBaman/Leet_Solutions/tree/master/3732-calculate-score-after-performing-instructions) |

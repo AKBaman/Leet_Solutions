@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/AKBaman/Leet_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AKBaman/Leet_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AKBaman/Leet_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/AKBaman/Leet_Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AKBaman/Leet_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AKBaman/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/AKBaman/Leet_Solutions/tree/master/0983-validate-stack-sequences) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AKBaman/Leet_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AKBaman/Leet_Solutions/tree/master/1552-build-an-array-with-stack-operations) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AKBaman/Leet_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AKBaman/Leet_Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2470-removing-stars-from-a-string) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/AKBaman/Leet_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Merge Sort

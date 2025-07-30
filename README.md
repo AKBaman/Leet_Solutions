@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/AKBaman/Leet_Solutions/tree/master/0735-asteroid-collision) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/AKBaman/Leet_Solutions/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/AKBaman/Leet_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AKBaman/Leet_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AKBaman/Leet_Solutions/tree/master/0739-daily-temperatures) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AKBaman/Leet_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AKBaman/Leet_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -580,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AKBaman/Leet_Solutions/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/AKBaman/Leet_Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -601,4 +605,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

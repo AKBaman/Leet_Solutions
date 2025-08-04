@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/AKBaman/Leet_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AKBaman/Leet_Solutions/tree/master/0739-daily-temperatures) |
+| [0940-fruit-into-baskets](https://github.com/AKBaman/Leet_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/AKBaman/Leet_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/AKBaman/Leet_Solutions/tree/master/0983-validate-stack-sequences) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/AKBaman/Leet_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/AKBaman/Leet_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AKBaman/Leet_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AKBaman/Leet_Solutions/tree/master/1364-tuple-with-same-product) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/AKBaman/Leet_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AKBaman/Leet_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/AKBaman/Leet_Solutions/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AKBaman/Leet_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

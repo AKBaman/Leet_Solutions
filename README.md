@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/AKBaman/Leet_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0735-asteroid-collision](https://github.com/AKBaman/Leet_Solutions/tree/master/0735-asteroid-collision) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AKBaman/Leet_Solutions/tree/master/0242-valid-anagram) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0433-minimum-genetic-mutation](https://github.com/AKBaman/Leet_Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0496-next-greater-element-i](https://github.com/AKBaman/Leet_Solutions/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/AKBaman/Leet_Solutions/tree/master/0940-fruit-into-baskets) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/AKBaman/Leet_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AKBaman/Leet_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AKBaman/Leet_Solutions/tree/master/0739-daily-temperatures) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/AKBaman/Leet_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AKBaman/Leet_Solutions/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/AKBaman/Leet_Solutions/tree/master/0943-sum-of-subarray-minimums) |

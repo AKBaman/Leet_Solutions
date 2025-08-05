@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AKBaman/Leet_Solutions/tree/master/3732-calculate-score-after-performing-instructions) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AKBaman/Leet_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## String
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AKBaman/Leet_Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/3447-clear-digits) |
 | [3732-calculate-score-after-performing-instructions](https://github.com/AKBaman/Leet_Solutions/tree/master/3732-calculate-score-after-performing-instructions) |
+| [3790-fruits-into-baskets-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
 |  |
 | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AKBaman/Leet_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/AKBaman/Leet_Solutions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Queue
 |  |
 | ------- |
@@ -623,4 +626,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
+| [3790-fruits-into-baskets-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

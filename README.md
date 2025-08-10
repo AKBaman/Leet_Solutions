@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AKBaman/Leet_Solutions/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/AKBaman/Leet_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AKBaman/Leet_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AKBaman/Leet_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AKBaman/Leet_Solutions/tree/master/1364-tuple-with-same-product) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/AKBaman/Leet_Solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/AKBaman/Leet_Solutions/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKBaman/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AKBaman/Leet_Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/AKBaman/Leet_Solutions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2846-robot-collisions](https://github.com/AKBaman/Leet_Solutions/tree/master/2846-robot-collisions) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/AKBaman/Leet_Solutions/tree/master/1656-count-good-triplets) |
 | [2998-count-symmetric-integers](https://github.com/AKBaman/Leet_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Binary Search Tree

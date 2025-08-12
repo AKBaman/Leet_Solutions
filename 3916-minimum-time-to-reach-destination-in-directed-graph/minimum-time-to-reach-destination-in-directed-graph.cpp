@@ -24,8 +24,9 @@ public:
                 int nextT = max(currT, start); // wait if needed
                 if (nextT <= end) {
                     if (nextT + 1 < dist[v]) {
-                        auto itSet = st.find({dist[v], v});
-                        if (itSet != st.end()) st.erase(itSet);
+                        if(dist[v] != 1e9){
+                            st.erase({dist[v],v});
+                        }
                         dist[v] = nextT + 1;
                         st.insert({dist[v], v});
                     }

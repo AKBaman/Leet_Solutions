@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/AKBaman/Leet_Solutions/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -652,10 +653,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/AKBaman/Leet_Solutions/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
+| [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/AKBaman/Leet_Solutions/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Ordered Set
 |  |
 | ------- |

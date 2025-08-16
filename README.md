@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKBaman/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1448-maximum-69-number](https://github.com/AKBaman/Leet_Solutions/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AKBaman/Leet_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
+| [1448-maximum-69-number](https://github.com/AKBaman/Leet_Solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AKBaman/Leet_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |

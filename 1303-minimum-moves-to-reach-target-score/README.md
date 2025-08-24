@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-moves-to-reach-target-score">1303. Minimum Moves to Reach Target Score</a></h2><h3>Medium</h3><hr><p>You are playing a game with integers. You start with the integer <code>1</code> and you want to reach the integer <code>target</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-moves-to-reach-target-score">Minimum Moves to Reach Target Score</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are playing a game with integers. You start with the integer <code>1</code> and you want to reach the integer <code>target</code>.</p>
 
 <p>In one move, you can either:</p>
 

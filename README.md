@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/AKBaman/Leet_Solutions/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AKBaman/Leet_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AKBaman/Leet_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
 |  |
 | ------- |
@@ -685,12 +686,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AKBaman/Leet_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/AKBaman/Leet_Solutions/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AKBaman/Leet_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/AKBaman/Leet_Solutions/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Ordered Set
 |  |
@@ -701,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/AKBaman/Leet_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

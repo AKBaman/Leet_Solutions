@@ -21,7 +21,7 @@ public:
             auto [time,node] = q.top();
             q.pop();
 
-            if(time > dist[node]) continue; // skip outdated entry
+            // if(time > dist[node]) continue; // skip outdated entry
 
             for(auto [adjNode, adjTime] : adj[node]){
                 if(time + adjTime < dist[adjNode]){

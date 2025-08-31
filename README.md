@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/AKBaman/Leet_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AKBaman/Leet_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/AKBaman/Leet_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/AKBaman/Leet_Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -46,15 +46,14 @@ public:
             int u = edge[0];
             int v = edge[1];
 
-            if(ds.findPar(u) != ds.findPar(v)){
-                ds.unionBySize(u,v);
+            if(ds.findPar(u) == ds.findPar(v)){
+               return edge;
             }
             else{
-                ansU= u;
-                ansV= v;
+                ds.unionBySize(u,v);
             }
         }
 
-        return  {ansU,ansV};
+        return  {};
     }
 };

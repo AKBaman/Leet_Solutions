@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/AKBaman/Leet_Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/AKBaman/Leet_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/AKBaman/Leet_Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -682,12 +684,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AKBaman/Leet_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AKBaman/Leet_Solutions/tree/master/0684-redundant-connection) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AKBaman/Leet_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/AKBaman/Leet_Solutions/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/AKBaman/Leet_Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AKBaman/Leet_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |

@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AKBaman/Leet_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AKBaman/Leet_Solutions/tree/master/1364-tuple-with-same-product) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AKBaman/Leet_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1552-build-an-array-with-stack-operations](https://github.com/AKBaman/Leet_Solutions/tree/master/1552-build-an-array-with-stack-operations) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AKBaman/Leet_Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKBaman/Leet_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AKBaman/Leet_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/AKBaman/Leet_Solutions/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |

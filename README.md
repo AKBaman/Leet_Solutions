@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AKBaman/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/AKBaman/Leet_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AKBaman/Leet_Solutions/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/AKBaman/Leet_Solutions/tree/master/0940-fruit-into-baskets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/0402-remove-k-digits) |
 | [0433-minimum-genetic-mutation](https://github.com/AKBaman/Leet_Solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AKBaman/Leet_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1160-letter-tile-possibilities](https://github.com/AKBaman/Leet_Solutions/tree/master/1160-letter-tile-possibilities) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/AKBaman/Leet_Solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0496-next-greater-element-i](https://github.com/AKBaman/Leet_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AKBaman/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AKBaman/Leet_Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/AKBaman/Leet_Solutions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AKBaman/Leet_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -535,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/AKBaman/Leet_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/AKBaman/Leet_Solutions/tree/master/0744-network-delay-time) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -689,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AKBaman/Leet_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/AKBaman/Leet_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AKBaman/Leet_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AKBaman/Leet_Solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AKBaman/Leet_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/AKBaman/Leet_Solutions/tree/master/1753-path-with-minimum-effort) |

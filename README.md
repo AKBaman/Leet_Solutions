@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/AKBaman/Leet_Solutions/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/AKBaman/Leet_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/AKBaman/Leet_Solutions/tree/master/1813-maximum-erasure-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AKBaman/Leet_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AKBaman/Leet_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AKBaman/Leet_Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AKBaman/Leet_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AKBaman/Leet_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AKBaman/Leet_Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/AKBaman/Leet_Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/2465-shifting-letters-ii) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AKBaman/Leet_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2846-robot-collisions](https://github.com/AKBaman/Leet_Solutions/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AKBaman/Leet_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AKBaman/Leet_Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/AKBaman/Leet_Solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AKBaman/Leet_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AKBaman/Leet_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Merge Sort
@@ -628,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/AKBaman/Leet_Solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AKBaman/Leet_Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/AKBaman/Leet_Solutions/tree/master/1813-maximum-erasure-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AKBaman/Leet_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AKBaman/Leet_Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AKBaman/Leet_Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3483-alternating-groups-ii) |
@@ -643,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AKBaman/Leet_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1753-path-with-minimum-effort](https://github.com/AKBaman/Leet_Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/AKBaman/Leet_Solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AKBaman/Leet_Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/AKBaman/Leet_Solutions/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3643-zero-array-transformation-ii) |

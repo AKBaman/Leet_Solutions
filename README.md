@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/AKBaman/Leet_Solutions/tree/master/2846-robot-collisions) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AKBaman/Leet_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/AKBaman/Leet_Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/AKBaman/Leet_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/AKBaman/Leet_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3194-find-words-containing-character](https://github.com/AKBaman/Leet_Solutions/tree/master/3194-find-words-containing-character) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AKBaman/Leet_Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/AKBaman/Leet_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3194-find-words-containing-character](https://github.com/AKBaman/Leet_Solutions/tree/master/3194-find-words-containing-character) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3396-valid-word](https://github.com/AKBaman/Leet_Solutions/tree/master/3396-valid-word) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AKBaman/Leet_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AKBaman/Leet_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/AKBaman/Leet_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3916-minimum-time-to-reach-destination-in-directed-graph](https://github.com/AKBaman/Leet_Solutions/tree/master/3916-minimum-time-to-reach-destination-in-directed-graph) |
 ## Ordered Set
 |  |
@@ -750,4 +753,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AKBaman/Leet_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/AKBaman/Leet_Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->

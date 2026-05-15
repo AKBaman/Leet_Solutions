@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/AKBaman/Leet_Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AKBaman/Leet_Solutions/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/AKBaman/Leet_Solutions/tree/master/0860-lemonade-change) |
 | [0940-fruit-into-baskets](https://github.com/AKBaman/Leet_Solutions/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/AKBaman/Leet_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AKBaman/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
+| [0860-lemonade-change](https://github.com/AKBaman/Leet_Solutions/tree/master/0860-lemonade-change) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AKBaman/Leet_Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/AKBaman/Leet_Solutions/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AKBaman/Leet_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |

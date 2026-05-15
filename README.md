@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AKBaman/Leet_Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/AKBaman/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/AKBaman/Leet_Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/AKBaman/Leet_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AKBaman/Leet_Solutions/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/AKBaman/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AKBaman/Leet_Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/AKBaman/Leet_Solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AKBaman/Leet_Solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/AKBaman/Leet_Solutions/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/AKBaman/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0721-accounts-merge](https://github.com/AKBaman/Leet_Solutions/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/AKBaman/Leet_Solutions/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0948-sort-an-array) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/AKBaman/Leet_Solutions/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/AKBaman/Leet_Solutions/tree/master/0768-partition-labels) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/AKBaman/Leet_Solutions/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/AKBaman/Leet_Solutions/tree/master/1448-maximum-69-number) |

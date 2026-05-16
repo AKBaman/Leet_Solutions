@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AKBaman/Leet_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/AKBaman/Leet_Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AKBaman/Leet_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AKBaman/Leet_Solutions/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/AKBaman/Leet_Solutions/tree/master/0085-maximal-rectangle) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AKBaman/Leet_Solutions/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/AKBaman/Leet_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AKBaman/Leet_Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/AKBaman/Leet_Solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AKBaman/Leet_Solutions/tree/master/0118-pascals-triangle) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AKBaman/Leet_Solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/AKBaman/Leet_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/AKBaman/Leet_Solutions/tree/master/0455-assign-cookies) |

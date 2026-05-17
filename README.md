@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AKBaman/Leet_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AKBaman/Leet_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1306-jump-game-iii](https://github.com/AKBaman/Leet_Solutions/tree/master/1306-jump-game-iii) |
 | [1364-tuple-with-same-product](https://github.com/AKBaman/Leet_Solutions/tree/master/1364-tuple-with-same-product) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AKBaman/Leet_Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AKBaman/Leet_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1306-jump-game-iii](https://github.com/AKBaman/Leet_Solutions/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AKBaman/Leet_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0955-complete-binary-tree-inserter](https://github.com/AKBaman/Leet_Solutions/tree/master/0955-complete-binary-tree-inserter) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AKBaman/Leet_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/AKBaman/Leet_Solutions/tree/master/1306-jump-game-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AKBaman/Leet_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AKBaman/Leet_Solutions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/AKBaman/Leet_Solutions/tree/master/1753-path-with-minimum-effort) |

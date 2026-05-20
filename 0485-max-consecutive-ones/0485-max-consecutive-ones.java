@@ -11,7 +11,7 @@ class Solution {
 
             if(max < count){
                 max=count;
-                System.out.print(count+ " ");
+               
             }
         }
 

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AKBaman/Leet_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AKBaman/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AKBaman/Leet_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/AKBaman/Leet_Solutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKBaman/Leet_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKBaman/Leet_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0189-rotate-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/AKBaman/Leet_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AKBaman/Leet_Solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/AKBaman/Leet_Solutions/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/AKBaman/Leet_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/AKBaman/Leet_Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AKBaman/Leet_Solutions/tree/master/0342-power-of-four) |

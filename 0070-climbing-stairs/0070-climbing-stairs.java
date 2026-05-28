@@ -10,7 +10,6 @@ class Solution {
             prev2 = prev1;
             prev1 = curri;
         }
-        System.out.print(prev1 +" "+ prev2);
         return curri;
     }
 }

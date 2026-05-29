@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKBaman/Leet_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AKBaman/Leet_Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/AKBaman/Leet_Solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AKBaman/Leet_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/AKBaman/Leet_Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AKBaman/Leet_Solutions/tree/master/0283-move-zeroes) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/AKBaman/Leet_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AKBaman/Leet_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/AKBaman/Leet_Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/AKBaman/Leet_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AKBaman/Leet_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0943-sum-of-subarray-minimums](https://github.com/AKBaman/Leet_Solutions/tree/master/0943-sum-of-subarray-minimums) |
